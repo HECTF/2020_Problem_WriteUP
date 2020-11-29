@@ -21,12 +21,12 @@
 | REVERSE  |         emmmm         |  Forgotten   |                           Public ✅                           |
 | REVERSE  |       easymaze        |    L0x1c     |                           Public ✅                           |
 | REVERSE  |       Hello_Re        |  Forgotten   |                           Public ✅                           |
-|  CRYPTO  |        easyrsa        |     omp      |                        Wait Update ⚠️                         |
-|  CRYPTO  |          MT           |     omp      |                        Wait Update ⚠️                         |
-|  CRYPTO  |    no blank space     |     omp      |                        Wait Update ⚠️                         |
+|  CRYPTO  |        easyrsa        |     omp      |                           Public ✅                           |
+|  CRYPTO  |          MT           |     omp      |                           Public ✅                           |
+|  CRYPTO  |    no blank space     |     omp      |                           Public ✅                           |
 |  CRYPTO  |          rsa          |     VCT      |                           Public ✅                           |
-|  CRYPTO  |       希尔密码        |     omp      |                        Wait Update ⚠️                         |
-|  CRYPTO  |      在这里签到       |     omp      |                        Wait Update ⚠️                         |
+|  CRYPTO  |       希尔密码        |     omp      |                           Public ✅                           |
+|  CRYPTO  |      在这里签到       |     omp      |                           Public ✅                           |
 |   MISC   |      FakeTrojan       |      No      |                          Private ⛔️                           |
 |   MISC   |       babyMisc        |      No      |                          Private ⛔️                           |
 |   MISC   | Make Steg Great Again |     小烨     |                           Public ✅                           |
