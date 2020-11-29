@@ -20,7 +20,7 @@
 | REVERSE  |         game2         |  Forgotten   |                           Public ✅                           |
 | REVERSE  |         emmmm         |  Forgotten   |                           Public ✅                           |
 | REVERSE  |       easymaze        |    L0x1c     |                           Public ✅                           |
-| REVERSE  |       Hello_Re        |  Forgotten   |                        Wait Update ⚠️                         |
+| REVERSE  |       Hello_Re        |  Forgotten   |                           Public ✅                           |
 |  CRYPTO  |        easyrsa        |     omp      |                        Wait Update ⚠️                         |
 |  CRYPTO  |          MT           |     omp      |                        Wait Update ⚠️                         |
 |  CRYPTO  |    no blank space     |     omp      |                        Wait Update ⚠️                         |
