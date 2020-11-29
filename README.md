@@ -27,8 +27,8 @@
 |  CRYPTO  |          rsa          |     VCT      |                           Public ✅                           |
 |  CRYPTO  |       希尔密码        |     omp      |                        Wait Update ⚠️                         |
 |  CRYPTO  |      在这里签到       |     omp      |                        Wait Update ⚠️                         |
-|   MISC   |      FakeTrojan       |      No      |                        Wait Update ⚠️                         |
-|   MISC   |       babyMisc        |      No      |                        Wait Update ⚠️                         |
+|   MISC   |      FakeTrojan       |      No      |                          Private ⛔️                           |
+|   MISC   |       babyMisc        |      No      |                          Private ⛔️                           |
 |   MISC   | Make Steg Great Again |     小烨     |                           Public ✅                           |
 |   MISC   |          png          |     VCT      |                           Public ✅                           |
 |   MISC   |       不说人话        |     moth     |                           Public ✅                           |
@@ -38,4 +38,4 @@
 |   MISC   |      请你找到我       |   ERROR404   |                          Private ⛔️                           |
 |   MISC   |      世界的终焉       |   ERROR404   |                          Private ⛔️                           |
 
-
+注：凡是状态为`Private ⛔️`的题目，请去赛事群找对应出题人(`Author`)询问思路。
